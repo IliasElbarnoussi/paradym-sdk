@@ -2,6 +2,8 @@
   "name": "@paradym/sdk",
   "version": "0.0.0",
   "type": "module",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "license": "Apache-2.0",
   "private": false,
   "publishConfig": {
